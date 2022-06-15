@@ -1,0 +1,24 @@
+Introdução ao Git e GitHub
+
+Versionamento de código
+1 - Controle de código distribuído
+2 - Armazenamento em nuvem
+3 - Trabalho em equipe
+4 - Melhorar seu código
+5 - Reconhecimento
+
+cli unix
+cd -> Navegar pelas pastas
+ls -> Listar arquivos em uma pasta
+mkdir -> Criar um diretório
+rm -rf -> Remove um diretório e todos os otros arquivos dentro dele
+
+sha1 -> Encriptar arquivos
+
+Objetos
+blobs -> Metadados do Git
+Tree -> Armazena blobs e nome do arquivo
+Commit -> tree - parent - author - timestamp - message
+
+git init -> inicializa git add -> adiciona os arquivos ao stage
+git commit -> commita as alterações para o repositório local
